@@ -40,8 +40,6 @@ The structure of the collection should be like that:
 
 #### Convert request
 
-Then you can make requests
-
     POST http://127.0.0.1:7777/convert?amount=60&from_currency=USD&to_currency=RUB
 
 And remember to send the api-key you have created previously in header
