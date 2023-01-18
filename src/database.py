@@ -34,5 +34,4 @@ class Database:
             doc.pop('_id')
             docs.append(doc)
 
-        print(docs)
         return docs
