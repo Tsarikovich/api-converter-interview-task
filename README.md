@@ -1,7 +1,7 @@
 # API-based parser xe.com
 
 This is one of my interview tasks.
-[The task] (https://github.com/Tsarikovich/api-converter-interview-task/blob/master/task.pdf itself.
+[The task](https://github.com/Tsarikovich/api-converter-interview-task/blob/master/task.pdf) itself.
 
 ## Getting Started
 
