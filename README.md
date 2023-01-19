@@ -30,9 +30,6 @@ Firstly, you need to create a database in mongodb called **"api-converter"** and
 The structure of the collection should be like that:
 
     [{
-      "_id": {
-        "$oid": "63c7f63c4c7db6dce84cda8e"
-      },
       "value": "A1234568"
     }]
 
