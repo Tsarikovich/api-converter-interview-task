@@ -27,10 +27,13 @@ Then simply run
 ### Add api-key
 Firstly, you need to create a database in mongodb called **"api-converter"** and collection called **"api-keys"**. Then provide the collection with the document containing value of your api-key.
 <br><br>
-The structure of the collection should be like that:
+The structure of this collection should be like that:
 
     [{
-      "value": "A1234568"
+      "value": "yourapikey1"
+     },
+    {
+      "value": "yourapikey2"
     }]
 
 ### Make a request
